@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ojas Wane</h1>
 <h3 align="center">A passionate web Developer 🚀</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4E9F3D&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;Building+beautiful+and+scalable+web+apps" alt="Typing SVG" />
-</p>
+
 
 ---
 
