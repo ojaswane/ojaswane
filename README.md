@@ -31,20 +31,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OjasWane&show_icons=true&theme=radical" alt="Ojas' GitHub Stats" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=OjasWane&theme=radical" alt="GitHub Streak" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OjasWane&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-
 ### 🌐 Connect with Me
 
 <p align="center">
