@@ -34,7 +34,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ojaswane" target="_blank">
+  <a href="[https://linkedin.com/in/ojaswane](https://www.linkedin.com/in/ojas-wane-35a072323/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ojaswane79@gmail.com">
