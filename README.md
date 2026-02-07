@@ -64,15 +64,6 @@
 - 🎯 Improving **UI polish, animations & DX**
 - 📈 Learning how to build **products people actually use(SAAS)**
 
----
-
-### 📫 Let’s Connect
-
-<p align="center">
-  <a href="https://github.com/your-github-username">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 ---
 
