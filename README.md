@@ -59,10 +59,10 @@
 
 ### 🔥 What I’m Currently Doing
 
-- 🌱 Building **production-ready apps**
+- 🌱 Building **production-ready apps(Saas)**
 - 🧱 Working on **real-world full-stack projects**
 - 🎯 Improving **UI polish, animations & DX**
-- 📈 Learning how to build **products people actually use(SAAS)**
+- 📈 Learning how to build **products people actually use**
 
 
 ---
